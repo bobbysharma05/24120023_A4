@@ -1,0 +1,14 @@
+E:\4 Semester\software tool\c#\Snake\bin\Debug\net8.0\Snake.exe
+E:\4 Semester\software tool\c#\Snake\bin\Debug\net8.0\Snake.deps.json
+E:\4 Semester\software tool\c#\Snake\bin\Debug\net8.0\Snake.runtimeconfig.json
+E:\4 Semester\software tool\c#\Snake\bin\Debug\net8.0\Snake.dll
+E:\4 Semester\software tool\c#\Snake\bin\Debug\net8.0\Snake.pdb
+E:\4 Semester\software tool\c#\Snake\obj\Debug\net8.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+E:\4 Semester\software tool\c#\Snake\obj\Debug\net8.0\Snake.AssemblyInfoInputs.cache
+E:\4 Semester\software tool\c#\Snake\obj\Debug\net8.0\Snake.AssemblyInfo.cs
+E:\4 Semester\software tool\c#\Snake\obj\Debug\net8.0\Snake.csproj.CoreCompileInputs.cache
+E:\4 Semester\software tool\c#\Snake\obj\Debug\net8.0\Snake.dll
+E:\4 Semester\software tool\c#\Snake\obj\Debug\net8.0\refint\Snake.dll
+E:\4 Semester\software tool\c#\Snake\obj\Debug\net8.0\Snake.pdb
+E:\4 Semester\software tool\c#\Snake\obj\Debug\net8.0\Snake.genruntimeconfig.cache
+E:\4 Semester\software tool\c#\Snake\obj\Debug\net8.0\ref\Snake.dll

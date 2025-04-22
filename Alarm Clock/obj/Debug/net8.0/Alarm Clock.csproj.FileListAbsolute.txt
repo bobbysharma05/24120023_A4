@@ -1,0 +1,14 @@
+E:\4 Semester\software tool\c#\Alarm Clock\obj\Debug\net8.0\Alarm Clock.GeneratedMSBuildEditorConfig.editorconfig
+E:\4 Semester\software tool\c#\Alarm Clock\obj\Debug\net8.0\Alarm Clock.AssemblyInfoInputs.cache
+E:\4 Semester\software tool\c#\Alarm Clock\obj\Debug\net8.0\Alarm Clock.AssemblyInfo.cs
+E:\4 Semester\software tool\c#\Alarm Clock\obj\Debug\net8.0\Alarm Clock.csproj.CoreCompileInputs.cache
+E:\4 Semester\software tool\c#\Alarm Clock\bin\Debug\net8.0\Alarm Clock.exe
+E:\4 Semester\software tool\c#\Alarm Clock\bin\Debug\net8.0\Alarm Clock.deps.json
+E:\4 Semester\software tool\c#\Alarm Clock\bin\Debug\net8.0\Alarm Clock.runtimeconfig.json
+E:\4 Semester\software tool\c#\Alarm Clock\bin\Debug\net8.0\Alarm Clock.dll
+E:\4 Semester\software tool\c#\Alarm Clock\bin\Debug\net8.0\Alarm Clock.pdb
+E:\4 Semester\software tool\c#\Alarm Clock\obj\Debug\net8.0\Alarm Clock.dll
+E:\4 Semester\software tool\c#\Alarm Clock\obj\Debug\net8.0\refint\Alarm Clock.dll
+E:\4 Semester\software tool\c#\Alarm Clock\obj\Debug\net8.0\Alarm Clock.pdb
+E:\4 Semester\software tool\c#\Alarm Clock\obj\Debug\net8.0\Alarm Clock.genruntimeconfig.cache
+E:\4 Semester\software tool\c#\Alarm Clock\obj\Debug\net8.0\ref\Alarm Clock.dll

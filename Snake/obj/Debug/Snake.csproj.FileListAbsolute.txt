@@ -1,0 +1,15 @@
+E:\4 Semester\software tool\c#\console_games\Projects\Snake\bin\Debug\Snake.exe
+E:\4 Semester\software tool\c#\console_games\Projects\Snake\bin\Debug\Snake.deps.json
+E:\4 Semester\software tool\c#\console_games\Projects\Snake\bin\Debug\Snake.runtimeconfig.json
+E:\4 Semester\software tool\c#\console_games\Projects\Snake\bin\Debug\Snake.dll
+E:\4 Semester\software tool\c#\console_games\Projects\Snake\bin\Debug\Snake.pdb
+E:\4 Semester\software tool\c#\console_games\Projects\Snake\obj\Debug\Snake.GeneratedMSBuildEditorConfig.editorconfig
+E:\4 Semester\software tool\c#\console_games\Projects\Snake\obj\Debug\Snake.AssemblyInfoInputs.cache
+E:\4 Semester\software tool\c#\console_games\Projects\Snake\obj\Debug\Snake.AssemblyInfo.cs
+E:\4 Semester\software tool\c#\console_games\Projects\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+E:\4 Semester\software tool\c#\console_games\Projects\Snake\obj\Debug\Snake.sourcelink.json
+E:\4 Semester\software tool\c#\console_games\Projects\Snake\obj\Debug\Snake.dll
+E:\4 Semester\software tool\c#\console_games\Projects\Snake\obj\Debug\refint\Snake.dll
+E:\4 Semester\software tool\c#\console_games\Projects\Snake\obj\Debug\Snake.pdb
+E:\4 Semester\software tool\c#\console_games\Projects\Snake\obj\Debug\Snake.genruntimeconfig.cache
+E:\4 Semester\software tool\c#\console_games\Projects\Snake\obj\Debug\ref\Snake.dll
